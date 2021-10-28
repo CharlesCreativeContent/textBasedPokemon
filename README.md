@@ -1,2 +1,1 @@
-# textBasedPokemon
-A Text based version of the original pokemon game
+![A map of the Kanto Region](assets/images/map.jpg)
